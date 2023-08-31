@@ -2,14 +2,16 @@
 
 ## Information Security
 
-[Information Security Guide: Effective Practices and Solutions for Higher Education](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
+EDUCAUSE
+-[Information Security Guide: Effective Practices and Solutions for Higher Education](https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program/resources/information-security-guide)
 - [HECVAT tools](https://library.educause.edu/resources/2020/4/higher-education-community-vendor-assessment-toolkit) - Full or Lite
 
-[CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
-- Ubintu Linux
-- MariaDB
-- Docker
-- Apache HTTP Server
+CISecurity
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks)
+  - Ubintu Linux
+  - MariaDB
+  - Docker
+  - Apache HTTP Server
 
 ## Data Privacy Protection
 
