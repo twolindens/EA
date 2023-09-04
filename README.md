@@ -1,4 +1,4 @@
-# Enterprise Assessment Resources
+# Assessment Resources for Enterprise Software As A Service (SaaS) Vendors
 
 ## Information Security
 
@@ -33,6 +33,13 @@ Accessibility
 - [WAVE](https://wave.webaim.org/)
 - [Humber Resources - AODA](https://humber.ca/tutorial/web-accessibility-compliance.html)
 
-
+## Enterprise Integrations
+- Enterprise Identity Providers (IdP) with Sigle Sign On (SSO)
+  - [Auth0 IdP](https://auth0.com/docs/authenticate/identity-providers/enterprise-identity-providers)
+  - Microsft and Google as IdP
+  - [IMS Lerning Tools Interoperability (LTI) as an SSO Mechnism](https://www.imsglobal.org/learning-tools-interoperability-sso-mechanism)
+ 
+- Education Industry standard integrations
+  - [IMS Lerning Tools Interoperability (LTI)](https://www.imsglobal.org/activity/learning-tools-interoperability)    
 
 
