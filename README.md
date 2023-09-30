@@ -21,7 +21,7 @@ Cyber Liability Insurance
 - Data flow diagram
 
 ## Website and Application Legal compliance
-Licenses
+Intelectual Property: Licenses, Trademarks and Copyright
 - [The Legal Side of Open Source](https://opensource.guide/legal/)
 
 Terms and Conditions
