@@ -13,6 +13,8 @@ CISecurity
   - Docker
   - Apache HTTP Server
 
+Cyber Liability Insurance
+
 ## Data Privacy Protection
 
 - [OneDPA](https://onenda.org/onedpa)
