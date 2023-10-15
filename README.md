@@ -14,6 +14,7 @@ CISecurity
   - Apache HTTP Server
 
 Cyber Liability Insurance
+- [Cyber Resilience Act](https://www.linuxfoundation.org/blog/understanding-the-cyber-resilience-act)
 
 ## Data Privacy Protection
 
